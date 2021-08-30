@@ -9,7 +9,6 @@
 - Currently working @ smartpatient :nerd_face:
 - Diving into Test Automation using Kotlin :robot: 
 - Always going forward and looking for new challenges :top: 
-- Growing vegetables on my balcony :seedling: 
 - And of course loving pizza and sharing my love @ [pizzaholics](https://instagram.com/pizzaholics__) :pizza:	
 
 
